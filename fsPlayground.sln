@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsPlayground", "fsPlayground\fsPlayground.fsproj", "{47FD8499-5F2F-40F2-9DF3-E2232D0D7425}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsGames.Tests", "fsGames.Tests\fsGames.Tests.fsproj", "{0AE18C29-055B-4B7C-9018-83B83BFBA245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FD8499-5F2F-40F2-9DF3-E2232D0D7425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FD8499-5F2F-40F2-9DF3-E2232D0D7425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FD8499-5F2F-40F2-9DF3-E2232D0D7425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FD8499-5F2F-40F2-9DF3-E2232D0D7425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE18C29-055B-4B7C-9018-83B83BFBA245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE18C29-055B-4B7C-9018-83B83BFBA245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE18C29-055B-4B7C-9018-83B83BFBA245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE18C29-055B-4B7C-9018-83B83BFBA245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7160698-C8F2-43F4-B28F-E18123DE3EDF}
+	EndGlobalSection
+EndGlobal
